@@ -9,6 +9,6 @@ I would need to scrape the data from the web/download the data, then clean them.
 See for example this figure which shows the retail job in each county: 
 ![alt text]( https://github.com/Hassan-Dashtian/PartTimeJobForecast/blob/gh-pages/retailjobs.png)
 
-For each county/state we would forecast the future demand of the employees that each county/state is needed. See the following figure for example:
+For each county/state we would forecast the future demand of the employees that each county/state is needed. See the following figure, for example for a county in texas, now we need 8 employees, in June we need 44 and in november we need 69:
 
 ![alt text]( https://github.com/Hassan-Dashtian/PartTimeJobForecast/blob/gh-pages/estimate.png)

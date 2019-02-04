@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Help people find part time job in retail industry
 
 People, especially college student students planning to make some extra money and work part time jobs in retail industry should plan in advance even several months. Also, retail stores should know the exact time to hire new part time employees. I plan to help these people to know their chance based on their location (state and city) and time (year and month) that they need that part time job. The number of employees in retail depends on both time and specific region. Through years, the number of total retail employees in Illinois show a different trend comparing to Texas. These trends depends on several factors which but the most important source is the history of the retail employment in that region. I propose to use the historical retail employment data in each area and develop a model as a function of location and time which can predict the industry demand for part time employees. 
 ### Data: 

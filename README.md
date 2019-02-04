@@ -6,3 +6,4 @@ I use the data from the following [The Federal Reserve Bank of St. Louis](
 https://fred.stlouisfed.org/search?st=retail+employee).
 Also, other data such as population of each region, number of retail stores and etc. might be useful, but I believe that some time-series forecasting approaches would be enough for forecasting the monthly trends of retail employee demands.   There are also neural network models that can be applied to these time series which use lagged predictors, such as Neural Networks Autoregression (NNAR). There are even time-series models borrowed from deep learning, specifically in the RNN (Recurrent Neural Network)  which gives high accuracy for prediction. 
 I would need to scrape the data from the web/download the data, then clean them.  
+See for example this figure ![alt text]( https://github.com/Hassan-Dashtian/PartTimeJobForecast/blob/gh-pages/retailjobs.png)

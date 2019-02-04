@@ -8,3 +8,7 @@ Also, other data such as population of each region, number of retail stores and 
 I would need to scrape the data from the web/download the data, then clean them.  
 See for example this figure which shows the retail job in each county: 
 ![alt text]( https://github.com/Hassan-Dashtian/PartTimeJobForecast/blob/gh-pages/retailjobs.png)
+
+For each county/state we would forecast the future demand of the employees that each county/state is needed. See the following figure for example:
+
+![alt text]( https://github.com/Hassan-Dashtian/PartTimeJobForecast/blob/gh-pages/estimate.png)

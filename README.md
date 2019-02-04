@@ -1,37 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Hassan-Dashtian/PartTimeJobForecast/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+People, especially college student students planning to make some extra money and work part time jobs in retail industry should plan in advance even several months. Also, retail stores should know the exact time to hire new part time employees. I plan to help these people to know their chance based on their location (state and city) and time (year and month) that they need that part time job. The number of employees in retail depends on both time and specific region. Through years, the number of total retail employees in Illinois show a different trend comparing to Texas. These trends depends on several factors which but the most important source is the history of the retail employment in that region. I propose to use the historical retail employment data in each area and develop a model as a function of location and time which can predict the industry demand for part time employees. 
+### Data: 
+I use the data from the following website:
+https://fred.stlouisfed.org/search?st=retail+employee
+Also, other data such as population of each region, number of retail stores and etc. might be useful, but I believe that some time-series forecasting approaches would be enough for forecasting the monthly trends of retail employee demands.   There are also neural network models that can be applied to these time series which use lagged predictors, such as Neural Networks Autoregression (NNAR). There are even time-series models borrowed from deep learning, specifically in the RNN (Recurrent Neural Network)  which gives high accuracy for prediction. 
+I would need to scrape the data from the web/download the data, then clean them.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hassan-Dashtian/PartTimeJobForecast/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
